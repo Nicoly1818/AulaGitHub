@@ -1,4 +1,4 @@
 Inicio da aula de GIT
 continuação da aula Git
 Jaja iremos embora
-alteração feita no repositório remoto
+Retornamos do intervalo
